@@ -1,3 +1,18 @@
+# SimCLR on CIFAR-10: Representation Learning Analysis
+## Artificial Intelligence NYCU Spring 2026 Project #2
+# Abstract
+本作業旨在探討自監督學習（Self-Supervised Learning, SSL）在無標註資料情境下的影像表示學習能力，並以 SimCLR 對比式學習架構應用於 CIFAR-10 資料集進行實驗分析。本次實作以 Jupyter Notebook 作為主要開發與實驗環境，完成資料載入、模型建構、訓練流程、評估方法、結果視覺化與實驗分析。SimCLR 透過對同一張影像產生兩個不同的資料增強版本，建立正樣本對（positive pairs），並利用 NT-Xent 損失函數，使模型在不使用類別標籤的情況下學習具有判別力的影像特徵表示。
+
+在主要實驗中，本作業使用經過修改的 ResNet-18 作為 backbone encoder，將第一層卷積改為適合 CIFAR-10 影像大小的 3×3 convolution，並移除初始 max-pooling，以避免過早下採樣。SimCLR 訓練時在 encoder 後接上 projection head 進行對比學習；訓練完成後移除 projection head，凍結 encoder，並透過 linear probing 評估 learned representation 的品質。此外，本作業亦建立兩個比較基準：其一為使用標註資料從頭訓練的 supervised learning baseline，其二為隨機初始化且凍結的 backbone 搭配 linear classifier，作為 lower-bound baseline。
+實驗結果顯示，SimCLR 模型在 CIFAR-10 linear probing 下達到 84.4% 測試準確率，明顯優於 random frozen backbone baseline 的 34.4%，表示 SimCLR 即使不使用標籤，也能學習到具有分類能力的影像表示。然而，supervised learning baseline 達到 92.97% 測試準確率，顯示在有標註資料的情境下，直接最佳化分類目標仍具有較高效能。此外，訓練過程中的 kNN monitor accuracy 與最終 linear probing accuracy 接近，顯示 kNN monitor 可作為觀察 representation quality 的有效指標。
+
+除了主要實驗外，本作業亦規劃並加入四項延伸實驗以進一步分析 SimCLR 的關鍵因素。Experiment 1 探討 NT-Xent loss 中 temperature 參數對 loss curve 與 kNN monitor accuracy 的影響。Experiment 2 分析 batch size 對 contrastive learning 的影響，特別是 negative samples 數量改變時 representation learning 的差異。Experiment 3 移除 projection head，直接以 encoder output 計算 contrastive loss，以觀察 projection head 對表示品質的重要性。Experiment 4 將 CIFAR-10 上學得的 encoder 轉移至 CIFAR-100 進行 linear probing，以評估 learned representation 的跨資料集泛化能力。
+綜合而言，本作業驗證了 SimCLR 對比式自監督學習在無標註影像資料上的有效性。實驗結果顯示，self-supervised learning 能大幅優於隨機特徵表示，並學習出具良好線性可分性的 visual representations；雖然其分類表現仍低於完全監督式學習，但已展現出在缺乏標註資料時作為 representation learning 方法的實用價值與潛力。
+
+
+
+
+
 # 一、本次作業的核心目標
 這次作業是 Artificial Intelligence NYCU Spring 2026 Project #2，截止日是 2026/5/3。
 
