@@ -30,10 +30,12 @@
    SimCLR 是一種基於 contrastive learning 的自監督表示學習方法。其核心概念是：對同一張影像產生兩個不同的資料增強版本，並讓模型學習使這兩個版本在特徵空間中更接近；同時，來自不同影像的樣本則應在特徵空間中彼此分離。
 本作業的 SimCLR 訓練流程如下：
 
+![](images/SimCLR_Training.png)
+
 首先，對每張 CIFAR-10 影像產生兩個獨立的 augmented views。這兩個 views 來自同一張原始影像，因此被視為 positive pair；同一個 batch 中其他影像的 augmented views 則作為 negative samples。接著，兩個 augmented views 會輸入同一個 encoder backbone，產生影像表示向量，再經過 projection head 映射到對比學習使用的 latent space。最後使用 NT-Xent loss 計算 contrastive loss，訓練模型使 positive pair 的 similarity 較高，negative pairs 的 similarity 較低。
 本作業使用的主要元件如下：
 
-![](images/SimCLR_Training.png)
+
 
 
 # 一、本次作業的核心目標
