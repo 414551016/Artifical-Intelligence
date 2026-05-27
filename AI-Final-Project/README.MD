@@ -104,8 +104,26 @@ Haptic sensors 和 force sensors 的差別
 一句話說：
 Force sensors 讓機器人知道自己受到多大的力；haptic sensors 讓機器人知道自己如何接觸到外界。
 ```
-
-
+- 4. 為什麼它們能降低傷害？
+```
+在人機協作中，機器人和人類會共享同一個工作空間。即使有 vision system，仍可能因為遮擋、延遲、誤判而發生接觸。這時 haptic / force sensing 就是最後一道安全防線。
+流程可以這樣理解：
+  發生接觸 → 感測到外力或壓力 → 判斷是否危險 → 停止 / 減速 / 退讓 / 降低剛性
+例如：
+  機械手臂碰到人：立即停止；
+  夾爪夾到人的手：放鬆夾爪；
+  機器人推力太大：進入力限制模式；
+  感測到持續接觸：降低 stiffness，使手臂變柔順。
+```
+- 5. 在你們報告中的定位
+```
+你這一段可以把 haptic / force sensors 定義成：
+  在人機協作中，haptic and force sensors 是讓機器人感知物理接觸與力量的安全感測系統。它們能在碰撞或接觸發生時，幫助機器人即時停止、退讓或降低力量，從而減少人類受傷風險。
+可以用一句英文作為投影片重點：
+  Vision helps robots avoid contact, while haptic and force sensors help robots react safely when contact actually happens.
+中文意思是：
+  視覺幫助機器人避免碰撞；觸覺與力感測則幫助機器人在真的碰到人時安全反應。
+```
 ### 投影片 3：力覺感知如何減少傷害
 ```
 Slide 3：How force sensing reduces harm
