@@ -23,7 +23,7 @@ vision 可以提前看見危險，但 haptic / force sensing 可以在接觸發�
 
 ## 本次任務報告內容彙整
 你的段落時間是 4 分鐘，建議做 4 張投影片，每張約 1 分鐘。
-- 投影片 1：為什麼觸覺/力覺感知如此重要
+### 投影片 1：為什麼觸覺/力覺感知如此重要
 ```
 Slide 1：Why haptic / force sensing matters(投影片 1：為什麼觸覺/力覺感知如此重要)
 投影片標題
@@ -39,7 +39,7 @@ Haptic/force sensing	接觸發生時	  偵測碰撞、限制力量、降低傷�
 My part focuses on haptic and force sensing. In HRC, vision can help prevent accidents before contact, and verbal communication can help correct robot mistakes. However, when physical contact actually happens, the robot needs force or tactile sensing to detect the contact and react immediately. Therefore, haptic sensing can be considered the last safety layer in human-robot collaboration.
 我的部分將重點放在觸覺和力覺感知。在人機協作中，視覺可以幫助預防接觸前的意外，而語音交流可以幫助糾正機器人的錯誤。然而，當實際發生物理接觸時，機器人需要力覺或觸覺感知來偵測接觸並立即做出反應。因此，觸覺感知可以被視為人機協作的最後一道安全防線。
 ```
-- 投影片 2：什麼是觸覺和力覺感測器？
+### 投影片 2：什麼是觸覺和力覺感測器？
 ```
 Slide 2：What are haptic and force sensors?
 投影片標題
@@ -57,7 +57,56 @@ Slide 2：What are haptic and force sensors?
 Haptic sensing does not only mean artificial skin. It includes force-torque sensors at the wrist, joint torque sensors, tactile sensors on the robot surface, and even external torque estimated from motor currents. These signals tell the robot whether it is touching a person, where the contact may occur, and how strong the contact force is.
 觸覺感知不僅僅指人造皮膚。它包括手腕處的力矩感測器、關節扭矩感測器、機器人表面的觸覺感測器，甚至包括根據馬達電流估算的外部扭矩。這些訊號告訴機器人它是否正在接觸人、接觸可能發生的位置以及接觸力的大小。
 ```
-- 投影片 3：力覺感知如何減少傷害
+- 什麼是haptic and force sensors?
+Haptic sensors 和 force sensors 都是讓機器人「感覺到接觸與力量」的感測器。它們在人機協作中很重要，因為機器人不能只靠攝影機「看」環境，還需要知道自己是否碰到人、碰到多大力、是否需要停止或退讓。
+- 1. Force sensors 是什麼？
+```
+Force sensors 是用來量測「力」的感測器。
+在人機協作中，它可以幫助機器人知道：
+  我是不是碰到人？
+  我施加的力量是不是太大？
+  我抓取物體時力道是否適當？
+  我是否需要停止、減速或退讓？
+常見例子是 force-torque sensor，通常裝在機械手臂末端或關節附近，可以量測：
+感測量	  說明
+Force	  推、拉、壓的力量
+Torque	扭轉力矩，例如旋轉方向的受力
+例如機器手臂正在搬東西，如果它碰到人的手，force sensor 偵測到異常外力後，可以立即停止或降低速度，避免造成傷害。
+```
+- 2. Haptic sensors 是什麼？
+```
+Haptic sensors 可以翻成「觸覺感測器」或「觸感感測器」。
+它的功能更接近人類皮膚，除了知道「有沒有接觸」，還可能知道：
+  接觸位置在哪裡；
+  接觸壓力多大；
+  接觸面積多大；
+  物體表面是否滑動；
+  機器人是否抓穩物體。
+常見形式包括：
+類型	                  說明
+Tactile sensor	        類似機器人皮膚，偵測接觸位置與壓力
+Pressure sensor	        偵測壓力大小
+Robot skin	            覆蓋在機器人表面的觸覺感測陣列
+Gripper tactile sensor	裝在夾爪上，用來判斷是否抓穩物體
+
+例如機器人夾杯子時，haptic sensor 可以知道杯子是否正在滑掉，並調整抓取力道。
+```
+- 3. Haptic sensors 和 force sensors 的差別
+```
+Haptic sensors 和 force sensors 的差別
+簡單區分如下：
+項目	    Force sensors	              Haptic sensors
+主要功能	  量測力與力矩	                偵測接觸、壓力、觸覺資訊
+感測範圍	  常用於手腕、關節、末端執行器	  常用於表面、夾爪、機器人皮膚
+重點	    「力有多大？」	              「碰到哪裡？怎麼碰？」
+類比人類	  肌肉與關節受力感	            皮膚觸覺
+
+一句話說：
+Force sensors 讓機器人知道自己受到多大的力；haptic sensors 讓機器人知道自己如何接觸到外界。
+```
+
+
+### 投影片 3：力覺感知如何減少傷害
 ```
 Slide 3：How force sensing reduces harm
 投影片標題
