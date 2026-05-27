@@ -25,9 +25,9 @@ vision 可以提前看見危險，但 haptic / force sensing 可以在接觸發�
 你的段落時間是 4 分鐘，建議做 4 張投影片，每張約 1 分鐘。
 - 投影片 1：為什麼觸覺/力覺感知如此重要
 ```
-Slide 1：Why haptic / force sensing matters
+Slide 1：Why haptic / force sensing matters(投影片 1：為什麼觸覺/力覺感知如此重要)
 投影片標題
-  Haptic / Force Sensing: The Last Safety Layer in HRC
+  Haptic / Force Sensing: The Last Safety Layer in HRC(觸覺/力感應：人機互動的最後一道安全防線)
 投影片重點
   在人機協作中，vision 可以提前看到危險，verbal communication 可以讓人類提醒機器人修正錯誤，但真正發生接觸時，機器人仍然需要 haptic / force sensing 來降低傷害。
 可以放這張表：
