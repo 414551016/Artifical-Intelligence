@@ -39,6 +39,14 @@ Haptic/force sensing	接觸發生時	  偵測碰撞、限制力量、降低傷�
 My part focuses on haptic and force sensing. In HRC, vision can help prevent accidents before contact, and verbal communication can help correct robot mistakes. However, when physical contact actually happens, the robot needs force or tactile sensing to detect the contact and react immediately. Therefore, haptic sensing can be considered the last safety layer in human-robot collaboration.
 我的部分將重點放在觸覺和力覺感知。在人機協作中，視覺可以幫助預防接觸前的意外，而語音交流可以幫助糾正機器人的錯誤。然而，當實際發生物理接觸時，機器人需要力覺或觸覺感知來偵測接觸並立即做出反應。因此，觸覺感知可以被視為人機協作的最後一道安全防線。
 ```
+```
+Why(懷) haptic(哈得可) and force(否死) sensing(伸仙) matters(買得死)
+
+
+
+
+
+```
 ### 投影片 2：什麼是觸覺和力覺感測器？
 ```
 Slide 2：What are haptic and force sensors?
