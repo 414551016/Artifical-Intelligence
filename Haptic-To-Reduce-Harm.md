@@ -17,7 +17,7 @@ we usually(又舊力) rely(緑賴) on Vision(非就) for prediction(呸'底炫)
 and Verbal(分否) commands(砍'眉的) for guidance(蓋等死).
 However(好'拉紛), these(力日) often(啊紛) fail(費而) during(等而你) unexpected(按你'死背踼的) contact(康貼可).
 This is where(會而) Haptic(哈得可) Sensing(伸先) enters(安得) as the 'Ultimate(歐的門特) Safety(誰伏踼) Line.
-While(懷而) vision avoids(而'莫依的) the hit,
+While(懷而) vision avoids(而'莫依的) the hit(喜的),
 haptics(哈得可) minimize(沒你買死) the harm(哈m).
 It is the final(范弄) defense(底'飯死) mechanism(沒可,樂容) that ensures(營'修而) if contact(康貼可) occurs(而'克死),
 it doesn't(答等的) lead(力的) to injury(營'就力).
