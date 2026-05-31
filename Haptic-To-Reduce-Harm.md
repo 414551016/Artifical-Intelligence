@@ -81,7 +81,13 @@ Safe Reaction（安全反應）： 一旦確認危險，機器人會立即採取
 ```
 ```
 How does the robot actually(啊秋力) reduce(緑丟死) harm?
-It follows a four-stage digital pipeline. First, Detection: the moment a strike is sensed. Second, Isolation: determining where it happened. Third, Identification: assessing the magnitude—is it a gentle nudge or a dangerous strike? Finally, the Safe Reaction: within milliseconds, the robot switches to compliant control or initiates a safety-rated stop. This workflow effectively turns a potentially fatal impact into a harmless encounter.
+It follows a four-stage digital pipeline.
+First, Detection: the moment a strike is sensed.
+Second, Isolation: determining where it happened.
+Third, Identification: assessing the magnitude—is it a gentle nudge or a dangerous strike?
+Finally, the Safe Reaction: within milliseconds,
+the robot switches to compliant control or initiates a safety-rated stop.
+This workflow effectively turns a potentially fatal impact into a harmless encounter.
 ```
 
 # Slide 4: Cultivating Human Trust
@@ -101,5 +107,13 @@ Slide 4: 安全反應與建立信任的關係 (Beyond Safety: Cultivating Trust)
 反之，當機器人展現出安全、可預期、且能被理解的順應反應時，作業員會從心底感受到被保護。這種物理上的安全感，會直接轉化為心理上的信任。 而當人與機器人之間建立了真正的信任，整條生產線的作業效率和組織生產力，才會迎來真正的爆發。
 ```
 ```
-Finally, we must recognize that haptic safety isn't just about physics; it’s about psychology. When an operator knows the robot will stop the moment it touches them, they work faster and more confidently. By converting physical safety into 'Perceived Protection,' we build a bridge of trust. This trust is the ultimate driver of organizational productivity in the modern factory. Thank you.
+Finally,
+we must recognize that haptic safety isn't just about physics;
+it’s about psychology.
+When an operator knows the robot will stop the moment it touches them,
+they work faster and more confidently.
+By converting physical safety into 'Perceived Protection,'
+we build a bridge of trust.
+This trust is the ultimate driver of organizational productivity in the modern factory.
+Thank you.
 ```
