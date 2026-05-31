@@ -49,7 +49,15 @@ Slide 2: 什麼是觸覺和力覺感測器？ (Decoding Sensing Modalities)[時�
 這四種技術的結合，讓機器人不再只是盲目運作的鋼鐵，而是能『感知周遭、輕重分明』的智慧夥伴。」
 ```
 ```
-To achieve this, we use four primary haptic technologies. Force/Torque sensors at the wrist handle interaction forces. Joint Torque sensors allow the robot to feel impact anywhere along its arm. For high-precision proximity, Tactile Robot Skins provide multi-point sensitivity, while Motor Current estimation serves as a cost-effective internal backup. Together, these allow the robot to 'feel' its environment with a level of nuance that vision alone cannot provide.
+To achieve(而'去伏) this,
+we use(優) four primary('趴美緑) haptic(哈得可) technologies(貼可'惱而舉).
+Force(否而死)/Torque(頭可) sensors(伸蛇) at the wrist(累死的) handle(恨豆) interaction(營得'拉炫) forces(否而死).
+Joint(久營的) Torque(頭可) sensors(伸蛇) allow(而拉) the robot(弱八) to feel(飛而) impact(營拍可) anywhere(ㄟ利會而) along(而弄) its arm(啊m).
+For high(海)-precision(波'誰炫) proximity(怕可'誰門利),
+Tactile([ˈtæktaɪl]貼可太而) Robot(弱八) Skins([skɪn]死給) provide([prəˈvaɪd]盆'伐的) multi(模太)-point sensitivity(伸死'提符提),
+while(懷而) Motor(模的) Current(可恩的) estimation([ˌestɪˈmeɪʃn]a提'每炫) serves([sɝˈv]蛇伏) as a cost(卡死的)-effective(而'翻提伏) internal(營'特弄) backup(貝可,兒).
+Together(吐'給了),
+these(利死) allow(而拉) the robot(弱八) to 'feel([fiːl]飛而)' its environment(營'敗而門特) with a level(淚模) of nuance(鈕'忘) that vision(粉久) alone(而弄) cannot(肯拿的) provide([prəˈvaɪd]盆'伐的).
 ```
 
 # Slide 3: The 4-Stage Harm Reduction Workflow 
@@ -72,7 +80,8 @@ Safe Reaction（安全反應）： 一旦確認危險，機器人會立即採取
 這套高效率的數位工作流，成功將原本可能導致骨折的衝擊，轉化為安全的輕微接觸。」
 ```
 ```
-How does the robot actually reduce harm? It follows a four-stage digital pipeline. First, Detection: the moment a strike is sensed. Second, Isolation: determining where it happened. Third, Identification: assessing the magnitude—is it a gentle nudge or a dangerous strike? Finally, the Safe Reaction: within milliseconds, the robot switches to compliant control or initiates a safety-rated stop. This workflow effectively turns a potentially fatal impact into a harmless encounter.
+How does the robot actually(啊秋力) reduce(緑丟死) harm?
+It follows a four-stage digital pipeline. First, Detection: the moment a strike is sensed. Second, Isolation: determining where it happened. Third, Identification: assessing the magnitude—is it a gentle nudge or a dangerous strike? Finally, the Safe Reaction: within milliseconds, the robot switches to compliant control or initiates a safety-rated stop. This workflow effectively turns a potentially fatal impact into a harmless encounter.
 ```
 
 # Slide 4: Cultivating Human Trust
