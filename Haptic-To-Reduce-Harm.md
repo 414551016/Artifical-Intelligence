@@ -77,6 +77,12 @@ How does the robot actually reduce harm? It follows a four-stage digital pipelin
 
 # Slide 4: Cultivating Human Trust
 ```
+Converting Safety into Trust
+Reliable haptic feedback bridges the gap between Functional Safety and Psychological Confidence.
+Predictable responses build operator reliance.
+Immediate contact-stop prevents secondary injury.
+Perceived protection leads to higher efficiency.
+
 Slide 4: Cultivating Human Trust (1:00) "Finally, we must recognize that haptic safety isn't just about physics; it’s about psychology. When an operator knows the robot will stop the moment it touches them, they work faster and more confidently. By converting physical safety into 'Perceived Protection,' we build a bridge of trust. This trust is the ultimate driver of organizational productivity in the modern factory. Thank you." 
 投影片 4：培養人與人之間的信任 (1:00)
 「最後，我們必須認識到，觸覺安全不僅僅關乎物理，更關乎心理。當操作員知道機器人會在接觸到他們時立即停止，他們工作起來會更快、更自信。通過將物理安全轉化為‘感知保護’，我們搭建了信任的橋樑。這種信任是現代工廠組織生產力的最終驅動力。謝謝。」
