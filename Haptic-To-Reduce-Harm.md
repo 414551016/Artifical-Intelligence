@@ -80,12 +80,12 @@ Safe Reaction（安全反應）： 一旦確認危險，機器人會立即採取
 這套高效率的數位工作流，成功將原本可能導致骨折的衝擊，轉化為安全的輕微接觸。」
 ```
 ```
-How does the robot actually(啊秋力) reduce(緑丟死) harm?
-It follows a four-stage digital pipeline.
-First, Detection: the moment a strike is sensed.
-Second, Isolation: determining where it happened.
-Third, Identification: assessing the magnitude—is it a gentle nudge or a dangerous strike?
-Finally, the Safe Reaction: within milliseconds,
+How does the robot actually(啊秋力[ˈæktʃʊəli]的確) reduce(緑丟死[rɪˈdus],減少) harm(哈m[hɑːm]傷害)?
+It follows(發弱[fɑˈlo]跟隨) a four-stage(死貼去[steɪdʒ]舞臺) digital(底去投) pipeline(拍賴[paɪpˌlaɪn]管道).
+First, Detection(底貼炫): the moment(莫門的[ˈməʊmənt]片刻) a strike(死帥可[straɪk]打擊) is sensed(伸的).
+Second(誰肯的), Isolation(愛受累炫[ˌaɪsəˈleɪʃn]隔離): determining(底'貼,米你[dɪˈtɜːmɪnɪŋ]決定性的) where it happened(哈本[ˈhæpən]發生).
+Third(蛇的), Identification(愛,等的'給炫[aɪˌdentɪfɪˈkeɪʃn]辨認): assessing(而'誰的[əˈses]估算) the magnitude('買個舊的)—is it a gentle(捐痛) nudge(冷去) or a dangerous(登久而) strike(死帥可)?
+Finally(范弄力[ˈfaɪnəli]最後), the Safe(誰付) Reaction(緑'ak炫): within(為忍[wɪˈðɪn]) milliseconds(咪利誰肯的[ˈmɪlɪsekənd]),
 the robot switches to compliant control or initiates a safety-rated stop.
 This workflow effectively turns a potentially fatal impact into a harmless encounter.
 ```
