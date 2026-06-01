@@ -49,6 +49,7 @@ Slide 2: 什麼是觸覺和力覺感測器？ (Decoding Sensing Modalities)[時�
 這四種技術的結合，讓機器人不再只是盲目運作的鋼鐵，而是能『感知周遭、輕重分明』的智慧夥伴。」
 ```
 ```
+Slide2：Decoding(底扣庭) haptic(哈得可) sensing(伸.庭) modalities(門.到了.踼)
 To achieve(而'去伏) this,
 we use(優) four primary('趴美緑) haptic(哈得可) technologies(貼可'惱而舉).
 Force(否而死)/Torque(頭可) sensors(伸蛇) at the wrist(累死的) handle(恨豆) interaction(營得'拉炫) forces(否而死).
@@ -80,14 +81,15 @@ Safe Reaction（安全反應）： 一旦確認危險，機器人會立即採取
 這套高效率的數位工作流，成功將原本可能導致骨折的衝擊，轉化為安全的輕微接觸。」
 ```
 ```
-How does the robot actually(啊秋力[ˈæktʃʊəli]的確) reduce(緑丟死[rɪˈdus],減少) harm(哈m[hɑːm]傷害)?
-It follows(發弱[fɑˈlo]跟隨) a four-stage(死貼去[steɪdʒ]舞臺) digital(底去投) pipeline(拍賴[paɪpˌlaɪn]管道).
+Slide 3: The 4-Stage(死貼.去[steɪdʒ]舞臺) Harm(哈.恩) Reduction(瑞'答.炫) Workflow(窩可.伏老)
+How does the robot actually(啊秋力[ˈæktʃʊəli]的確) reduce(緑丟死[rɪˈdus],減少) harm(哈.恩[hɑːm]傷害)?
+It follows(發弱[fɑˈlo]跟隨) a four-stage(死貼.去) digital(底去投) pipeline(拍賴[paɪpˌlaɪn]管道).
 First, Detection(底貼炫): the moment(莫門的[ˈməʊmənt]片刻) a strike(死帥可[straɪk]打擊) is sensed(伸的).
 Second(誰肯的), Isolation(愛受累炫[ˌaɪsəˈleɪʃn]隔離): determining(底'貼,米你[dɪˈtɜːmɪnɪŋ]決定性的) where it happened(哈本[ˈhæpən]發生).
 Third(蛇的), Identification(愛,等的'給炫[aɪˌdentɪfɪˈkeɪʃn]辨認): assessing(而'誰的[əˈses]估算) the magnitude('買個舊的)—is it a gentle(捐痛) nudge(冷去) or a dangerous(登久而) strike(死帥可)?
 Finally(范弄力[ˈfaɪnəli]最後), the Safe(誰付) Reaction(緑'ak炫): within(為忍[wɪˈðɪn]) milliseconds(咪利誰肯的[ˈmɪlɪsekənd]),
 the robot switches(死為去) to compliant(剛'敗而恩的[kəmˈplaɪənt]符合) control or initiates(營'利雪的{開始}) a safety(誰伏踼{安全})-rated(瑞的{評定}) stop.
-This workflow(窩可,伏老{工作流程}) effectively(而'廢可'踼力[əˈfek.tɪv.li]{有成效地}) turns(騰) a potentially(而'天.久力{潛在地}) fatal(悲.弄) impact(營拍可) into(營.丟[ˈɪn.tu]) a harmless('哈.買.死) encounter(營'靠.的).
+This workflow(窩可.伏老{工作流程}) effectively(而'廢可'踼力[əˈfek.tɪv.li]{有成效地}) turns(騰) a potentially(而'天.久力{潛在地}) fatal(悲.弄) impact(營拍可) into(營.丟[ˈɪn.tu]) a harmless('哈.買.死) encounter(營'靠.的).
 ```
 
 # Slide 4: Cultivating Human Trust
