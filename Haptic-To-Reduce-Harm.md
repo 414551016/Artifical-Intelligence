@@ -19,7 +19,7 @@ Slide 1: 為什麼觸覺感知至關重要？ (The Ultimate Safety Line)[時間�
 ```
 Slide(死.賴)1：The ultimate(歐的.門特) safety(誰伏.踼) line
 Welcome everyone.
-Today we are looking at how robots(弱八) transition(勸'日.炫) from being mere(米而) machines(門訊) to safe collaborators(扣拉'不累的).
+Today we are looking at how robots(弱八) transition(勸'日.炫) from being(並) mere(米而) machines(門訊) to safe collaborators(扣拉'不累的).
 In Human(修門)-Robot(弱八) Collaboration(扣拉'不累.炫) {HRC},
 we usually(又舊力) rely(緑賴) on Vision(非就) for prediction(呸'底炫)
 and Verbal(分否) commands(砍'眉的) for guidance(蓋等死).
