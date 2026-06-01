@@ -86,8 +86,8 @@ First, Detection(底貼炫): the moment(莫門的[ˈməʊmənt]片刻) a strike(
 Second(誰肯的), Isolation(愛受累炫[ˌaɪsəˈleɪʃn]隔離): determining(底'貼,米你[dɪˈtɜːmɪnɪŋ]決定性的) where it happened(哈本[ˈhæpən]發生).
 Third(蛇的), Identification(愛,等的'給炫[aɪˌdentɪfɪˈkeɪʃn]辨認): assessing(而'誰的[əˈses]估算) the magnitude('買個舊的)—is it a gentle(捐痛) nudge(冷去) or a dangerous(登久而) strike(死帥可)?
 Finally(范弄力[ˈfaɪnəli]最後), the Safe(誰付) Reaction(緑'ak炫): within(為忍[wɪˈðɪn]) milliseconds(咪利誰肯的[ˈmɪlɪsekənd]),
-the robot switches to compliant control or initiates a safety-rated stop.
-This workflow effectively turns a potentially fatal impact into a harmless encounter.
+the robot switches(死為去) to compliant(剛'敗而恩的[kəmˈplaɪənt]符合) control or initiates(營'利雪的{開始}) a safety(誰伏踼{安全})-rated(瑞的{評定}) stop.
+This workflow(窩可,伏老{工作流程}) effectively(而'廢可'踼力[əˈfek.tɪv.li]{有成效地}) turns(騰) a potentially(而'天.久力{潛在地}) fatal(悲.弄) impact(營拍可) into(營.丟[ˈɪn.tu]) a harmless('哈.買.死) encounter(營'靠.的).
 ```
 
 # Slide 4: Cultivating Human Trust
