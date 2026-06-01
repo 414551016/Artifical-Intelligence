@@ -85,7 +85,7 @@ Safe Reaction（安全反應）： 一旦確認危險，機器人會立即採取
 Slide 3: The 4-Stage(死貼.去[steɪdʒ]舞臺) Harm(哈.恩) Reduction(瑞'答.炫) Workflow(窩可.伏老)
 How does the robot actually(啊秋力[ˈæktʃʊəli]的確) reduce(緑丟死[rɪˈdus],減少) harm(哈.恩[hɑːm]傷害)?
 It follows(發弱[fɑˈlo]跟隨) a four-stage(死貼.去) digital(底去投) pipeline(拍賴[paɪpˌlaɪn]管道).
-First, Detection(底貼炫): the moment(莫門的[ˈməʊmənt]片刻) a strike(死帥可[straɪk]打擊) is sensed(伸的).
+First, Detection(底貼炫): the moment(莫.門的[ˈməʊmənt]片刻) a strike(死帥可[straɪk]打擊) is sensed(伸的).
 Second(誰肯的), Isolation(愛受累炫[ˌaɪsəˈleɪʃn]隔離): determining(底'貼,米你[dɪˈtɜːmɪnɪŋ]決定性的) where it happened(哈本[ˈhæpən]發生).
 Third(蛇的), Identification(愛,等的'給炫[aɪˌdentɪfɪˈkeɪʃn]辨認): assessing(而'誰的[əˈses]估算) the magnitude('買個舊的)—is it a gentle(捐痛) nudge(冷去) or a dangerous(登久而) strike(死帥可)?
 Finally(范弄力[ˈfaɪnəli]最後), the Safe(誰付) Reaction(緑'ak炫): within(為忍[wɪˈðɪn]) milliseconds(咪利誰肯的[ˈmɪlɪsekənd]),
@@ -110,13 +110,14 @@ Slide 4: 安全反應與建立信任的關係 (Beyond Safety: Cultivating Trust)
 反之，當機器人展現出安全、可預期、且能被理解的順應反應時，作業員會從心底感受到被保護。這種物理上的安全感，會直接轉化為心理上的信任。 而當人與機器人之間建立了真正的信任，整條生產線的作業效率和組織生產力，才會迎來真正的爆發。
 ```
 ```
-Finally,
-we must recognize that haptic safety isn't just about physics;
-it’s about psychology.
-When an operator knows the robot will stop the moment it touches them,
-they work faster and more confidently.
-By converting physical safety into 'Perceived Protection,'
-we build a bridge of trust.
-This trust is the ultimate driver of organizational productivity in the modern factory.
+Slide 4: Cultivating(靠.的.廢的) Human(修門) Trust(架死的[trʌst])
+Finally(范弄力),
+we must recognize(累.緊.奈斯) that haptic(哈.得可) safety(誰伏踼) is not just(駕.死的) about physics(伸神.可死{物理學});
+it’s about psychology(誰.靠.了舉{心理學}).
+When an operator(啊.不累.的{操作者}) ,knows the robot(弱八) will stop the moment(莫.門的) it touches(塔去) them(累門),
+they(累) work faster(發死.得) and more confidently(卡神.樂.威).
+By converting(肯.熱的) physical(非.日.扣) safety(誰伏.踼) into 'Perceived(盆.死.伏) Protection(盆.塔.炫),'
+we build(比.了的) a bridge(不累.去) of trust(架死的).
+This trust(架死的) is the ultimate(歐的.門特) driver(甩.佛) of organizational(歐隔.誰死.弄) productivity(扣的.踼伏踼) in the modern(媽等) factory(發克.特緑).
 Thank you.
 ```
