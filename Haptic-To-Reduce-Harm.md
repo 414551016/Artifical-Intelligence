@@ -1,5 +1,11 @@
 # Slide1：The ultimate safety line
 ```
+Slide 1: 為什麼觸覺感知至關重要？ (The Ultimate Safety Line)[時間：0:00 - 1:00]
+「主題是：觸覺與力覺感知如何有效降低人機協作中的傷害。
+在工業 4.0 的浪潮下，人機協作（HRC）已經是現在進行式。為了確保人類安全，我們通常會部署多層防禦。首先，我們利用視覺（Vision）在『接觸前』預測人類位置、避免碰撞；其次，透過語音或指令（Verbal[分否] communication[看扭了,給炫)）在『錯誤發生時』提醒機器人修正。
+然而，當這兩道防線因為視覺盲區或系統延遲而失效、導致真實接觸發生時，該怎麼辦？此時，觸覺感知（Haptic[哈.得可] / Force Sensing[否死 | 伸醒]）就是我們最後、也最關鍵的一道安全防線。它不求永遠不發生碰撞，但求在撞擊發生的瞬間，將傷害降到最低。」
+```
+```
 Haptic sensing provides the critical post-contact safeguard in Human-Robot Collaboration.
 Vision: Predictive avoidance (Pre-contact)
 Verbal: Error correction (During deviation)
