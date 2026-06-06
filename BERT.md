@@ -10,7 +10,8 @@ BERT（Bidirectional Encoder Representations from Transformers）是由 Google �
   基於 Transformer 架構（Attention 機制）
 
 ## BERT 是什麼？
-BERT = 一種基於 Transformer 的雙向語言表示模型，它的核心目標是：讓電腦更「理解句子的上下文語意」
+BERT = 一種基於 Transformer 的雙向語言表示模型，它的核心目標是：讓電腦更「理解句子的上下文語意」。
+BERT = 一個能「雙向理解上下文」的語言模型，並透過預訓練學會語意，再應用到各種 NLP 任務
 
 ## 核心特色（最重要）
 ### 雙向理解（Bidirectional Context）
