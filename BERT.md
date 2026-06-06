@@ -46,4 +46,4 @@ BERT = 一種基於 Transformer 的雙向語言表示模型，它的核心目標
 - Next Sentence Prediction（NSP）
    判斷兩句話是否連續。例：句子 A + 句子 B → 判斷 B 是否接在 A 後面
   - 功能：
-   - 理解句子間關係
+    - 理解句子間關係
