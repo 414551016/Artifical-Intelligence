@@ -13,7 +13,7 @@
 ## 常見的應用與例子
 - 文字（Word Embeddings / Transformers）：
   像 Word2Vec 或 BERT/GPT。它們將人類的詞彙轉換成高維度的向量。在這些向量空間中，意思相近的詞（如「貓」和「狗」）距離會很近，甚至能做向量運算：
-  國王 - 男人 + 女人 \approx 女王
+  $$\text{國王} - \text{男人} + \text{女人} \approx \text{女王}$$
 - 影像：
   自編碼器（Autoencoders）或對比學習（Contrastive Learning），能將圖片壓縮成特徵向量，用於圖片檢索、人臉辨識或異常檢測。
 
